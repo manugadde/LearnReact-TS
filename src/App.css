@@ -1,0 +1,18 @@
+.App-header {
+  background-color: #ffffff;
+  font-size: 100px;
+  color: #000000;
+  display: flex;
+  justify-content: left;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.jumbotron > .container {
+  text-align: left; 
+}
+.highlight {
+	background-color: #eaedd8;
+}
